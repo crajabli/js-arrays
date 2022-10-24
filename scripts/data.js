@@ -30,5 +30,14 @@ const data = {
       prereqs: [159],
       credits: 3,
     },
+    {
+      prefix: "CS",
+      number: 347,
+      title: "Full-stack Web Development",
+      url: "https://catalog.jmu.edu/content.php?filter%5B27%5D=CS&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=50&expand=&navoid=2576&search_database=Filter#",
+      desc: "This course covers design and development of World Wide Web applications. Students examine protocols, architectures, development languages and facilities, and issues such as accessibility, usability, security and reliability. Students work with a suite of development tools and languages to construct a client or server application that includes a GUI and a database.",
+      prereqs: [343],
+      credits: 3,
+    },
   ],
 };
